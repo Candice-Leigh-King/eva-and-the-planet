@@ -615,23 +615,6 @@ font-family: 'Shrikhand', cursive;*/
   background-repeat: no-repeat;
   }
 
-  /* -------SHOP---- */
-  
-  .shopify-button 
-    {
-    display: inline-block;
-    position: fixed;
-    line-height: 0.5;
-    bottom: 1rem;
-    right: 38%;
-    z-index: 2;
-    font-weight: 400;
-    color: white;
-    text-align: center;
-    }
-
- 
-
 /*------------------ HEADER ----------------*/
 header 
   {
@@ -1004,10 +987,6 @@ footer {
    columns:2;
    column-gap: 1rem;
    }
- 
-  /* -------SHOP----- */
-  .shopify-button
-  {right: 25%;}
 
  
  
@@ -1125,13 +1104,6 @@ footer {
    .date {font-size: 0.7rem;}
 
    .blog-banner-mobile h1 {font-size: 1.7rem;}
-
-   /* ----SHOP--- */
-   .shopify-button 
-    {
-    right: 0%;
-    left: 22%;
-    }
 
    .padded-1 
     {padding: 4px;}
