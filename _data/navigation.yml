@@ -21,7 +21,7 @@ fonts:
 social-link-colors:
   icon-color: '#859f9f'
   background-color: '#ffffff'
-  border-color: '#d2966d'
+  border-color: '#366262'
   icon-hover-color: '#d2966d'
 icons-border-radius:
   top-left-corner: 100px
