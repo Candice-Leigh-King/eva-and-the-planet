@@ -4,7 +4,7 @@ textarea_html: >-
   href="/#gallery">gallery</a></p><p><a href="/#contact">contact</a></p>
 colors:
   hamburger-color: '#ffffff'
-  background-color: '#4b603d'
+  background-color: '#84a96b'
   textarea-background-color: '#d0dfd2'
   border-color: '#ffffff'
   link-color: '#2f3031'
