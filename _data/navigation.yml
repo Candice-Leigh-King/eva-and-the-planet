@@ -18,7 +18,7 @@ border-radius:
   bottom-left-corner: 0%
   bottom-right-corner: 0%
 fonts:
-  link-font: Cyrene
+  link-font: Raleway, sans-serif
 social-link-colors:
   icon-color: '#b3cece'
   background-color: '#f5f5f5'
