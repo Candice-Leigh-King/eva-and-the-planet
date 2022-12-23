@@ -4,8 +4,8 @@ textarea_html: >-
   href="/media-kit.html">media kit</a></p>
 colors:
   hamburger-color: '#ffffff'
-  background-color: '#1f7787'
-  textarea-background-color: '#64aaae'
+  background-color: '#c3b3a3'
+  textarea-background-color: '#e8e2d6'
   border-color: '#e8e2d6'
   link-color: '#2f3031'
   hover-link-color: '#ffffff'
