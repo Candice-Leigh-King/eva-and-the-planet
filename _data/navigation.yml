@@ -22,7 +22,7 @@ social-link-colors:
   icon-color: '#678d96'
   background-color: '#ebf0f1'
   border-color: '#678d96'
-  icon-hover-color: '#ebf0f1'
+  icon-hover-color: '#aac5cc'
 icons-border-radius:
   top-left-corner: 0px
   top-right-corner: 0px
