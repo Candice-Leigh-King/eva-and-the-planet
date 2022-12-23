@@ -12,19 +12,19 @@ colors:
   exit-color: '#2f3031'
   exit-hover-color: '#ffffff'
 border-radius:
-  top-left-corner: 0%
-  top-right-corner: 0%
+  top-left-corner: 100%
+  top-right-corner: 100%
   bottom-left-corner: 0%
   bottom-right-corner: 0%
 fonts:
-  link-font: Raleway, sans-serif
+  link-font: Shrikhand, cursive
 social-link-colors:
-  icon-color: '#b3cece'
-  background-color: '#f5f5f5'
-  border-color: '#679594'
-  icon-hover-color: '#679594'
+  icon-color: '#aac5cc'
+  background-color: '#ebf0f1'
+  border-color: '#678d96'
+  icon-hover-color: '#678d96'
 icons-border-radius:
-  top-left-corner: 100px
+  top-left-corner: 0px
   top-right-corner: 0px
   bottom-left-corner: 0px
   bottom-right-corner: 100px
