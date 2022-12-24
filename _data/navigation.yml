@@ -1,7 +1,8 @@
 textarea_html: >-
-  <p><a href="/#services">SERVICES</a></p><p><a
-  href="/#gallery">gallery</a></p><p><a href="/#contact">contact</a></p><p><a
-  href="/media-kit.html">media kit</a></p>
+  <p><a href="/#contact">CONTACT ME</a></p><p><a
+  href="/#gallery">GALLERY</a></p><p><a target="_blank" rel="noopener"
+  href="/media-kit.html">MEDIA KIT</a></p><p><a
+  href="/reviews">REVIEWS</a></p><p><a href="/#services">WHAT I DO</a></p>
 colors:
   hamburger-color: '#ffffff'
   background-color: '#aac5cc'
