@@ -20,10 +20,10 @@ border-radius:
 fonts:
   link-font: Cyrene
 social-link-colors:
-  icon-color: '#13292a'
+  icon-color: '#988780'
   background-color: '#ffffff'
   border-color: '#13292a'
-  icon-hover-color: '#e7ded9'
+  icon-hover-color: '#13292a'
 icons-border-radius:
   top-left-corner: 90px
   top-right-corner: 90px
