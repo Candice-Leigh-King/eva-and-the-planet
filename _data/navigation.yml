@@ -5,12 +5,12 @@ textarea_html: >-
   href="/#reviews">TESTIMONIALS</a></p><p><a href="/#services">WHAT I DO</a></p>
 colors:
   hamburger-color: '#ffffff'
-  background-color: '#aac5cc'
-  textarea-background-color: '#ebf0f1'
-  border-color: '#ebf0f1'
-  link-color: '#2f3031'
+  background-color: '#13292a'
+  textarea-background-color: '#ffffff'
+  border-color: '#ffffff'
+  link-color: '#000000'
   hover-link-color: '#ffffff'
-  exit-color: '#2f3031'
+  exit-color: '#000000'
   exit-hover-color: '#ffffff'
 border-radius:
   top-left-corner: 100%
