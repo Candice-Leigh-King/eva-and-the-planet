@@ -5,7 +5,7 @@ textarea_html: >-
   href="/#reviews">TESTIMONIALS</a></p><p><a href="/#services">WHAT I DO</a></p>
 colors:
   hamburger-color: '#ffffff'
-  background-color: '#13292a'
+  background-color: '#e7ded9'
   textarea-background-color: '#ffffff'
   border-color: '#ffffff'
   link-color: '#000000'
