@@ -8,7 +8,7 @@ colors:
   background-color: '#e7ded9'
   textarea-background-color: '#ffffff'
   border-color: '#ffffff'
-  link-color: '#000000'
+  link-color: '#13292a'
   hover-link-color: '#e7ded9'
   exit-color: '#e7ded9'
   exit-hover-color: '#ffffff'
@@ -20,9 +20,9 @@ border-radius:
 fonts:
   link-font: Cyrene
 social-link-colors:
-  icon-color: '#000000'
+  icon-color: '#13292a'
   background-color: '#ffffff'
-  border-color: '#000000'
+  border-color: '#13292a'
   icon-hover-color: '#e7ded9'
 icons-border-radius:
   top-left-corner: 90px
