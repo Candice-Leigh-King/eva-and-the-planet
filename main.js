@@ -30,7 +30,18 @@ $(document).ready(function() {
 			});
 			});
 
-			// on scroll
+			$('.variable-width').slick({
+				dots: false,
+				infinite: true,
+				arrows: false,
+				speed: 1000,
+				slidesToShow: 4,
+				autoplay: true,
+				centerMode: true,
+				variableWidth: true
+			  });
+
+			
 			// on scroll
 			function reveal() {
 			let reveals = document.querySelectorAll(".reveal");
@@ -48,6 +59,8 @@ $(document).ready(function() {
 			}
 
 			window.addEventListener("scroll", reveal);
+
+			
 
 			
 			$('[data-fancybox="gallery"]').fancybox({
@@ -70,3 +83,5 @@ $(document).ready(function() {
 				   $(this).slideToggle();
 				 }});
 			});
+				
+
