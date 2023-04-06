@@ -494,6 +494,268 @@ _array_structures:
             heading-color:
             border-color:
             background-color:  
+      - label: Purity
+        icon: local_florist
+        value:
+          _section-type: purity
+          background-image: /images/shadows.png
+          image: /images/about-us.webp
+          textarea_html: >-
+            <h2>about us</h2><h4>We're hotel photographers with 3 Million
+            followers!</h4><p>Use this block to tell your audience more about you. Be
+            descriptive and make sure your personality shines through your writing.
+            You also want to <a href="/media-kit.html"><strong>write the way you
+            talk</strong> </a>so that your website comes across more personal which
+            builds relationship and trust.</p><p>In this block, you can add links, add
+            headings, subheadings,&nbsp;<em>italics</em> and <strong>bold text.
+            </strong>You can also added<strong>&nbsp;</strong>quotes, bulleted list
+            and numbered lists.</p><p>Use this block throughout your website if you
+            wish for an about section, story section, mission and/or vision statement
+            or in any way you please!</p>
+          cta_html: <p><a href="portfolio">see our work</a></p>
+          colors:
+            heading-color:
+            subheading-color: '#9E9282'
+            other-subheadings-color: '#9E9282'
+            background-color: '#F8F7F3'
+            image-border-color: transparent
+            text-color: '#2f3031'
+            button-color: '#366E94'
+            button-text-color: white
+            button-hover-color: transparent
+            button-text-hover-color: '#9E9282'
+            link-color: '#366E94'
+            link-hover-color: '#9E9282'
+          fonts:
+            heading-font:
+            subheading-font: Mak
+            other-subheadings-font: Brushwell
+            text-font: Raleway, sans-serif
+            button-font: Mak
+          image-border-radius:
+            border-top-left-corner: 0%;
+            border-top-right-corner: 0%;
+            border-bottom-left-corner: 0%;
+            border-bottom-right-corner: 0%;
+          button-border-radius:
+            border-top-left-corner: 100%;
+            border-top-right-corner: 100%;
+            border-bottom-left-corner: 100%;
+            border-bottom-right-corner: 100%;
+          content-block-link: about
+      - label: Museum
+        icon: temple_buddhist
+        value:
+          _section-type: museum
+          heading: hotel photography genres
+          subheading:
+          textarea: <p>We specialize in the hotel facility, food, travel and lifestyle. We cover both photography and videography. <br><br> To see more images, tap/click the image.  </p>
+          image-1:
+            image: /images/food-photography/food-photography.webp
+            title: food 
+            link: /food-photography
+          image-2:
+            image: /images/travel-photography/travel-photography.webp
+            title: travel
+            link: travel-photography
+          image-3:
+            image: /images/lifestyle-photography/lifestyle.webp
+            title: lifestyle
+            link: /lifestyle-photography
+          image-4:
+            image: /images/facility-photography/facility.webp
+            title: facility
+            link: /facility-photography
+          image-5:
+            image: /images/room-photography/room.webp
+            title: room
+            link: /room-photography
+          colors:
+            heading-color: '#9E9282'
+            subheading-color: '#9E9282'
+            text-color: '#9E9282'
+            titles-color: '#9E9282'
+            background-color: '#F8F7F3'
+            textarea-background-color: '#FEFEFE'
+            titles-background-color: '#F8F7F3'
+          fonts:
+            heading-font: Mak
+            subheading-font: Mak
+            text-font: Playfair Display, serif
+            titles-fonts: Mak
+          border-radius:
+            titles:
+              top-left-corner: 100%
+              top-right-corner: 100%
+              bottom-left-corner: 100%
+              bottom-right-corner: 100%
+          content-block-link:
+      - label: Exhibition
+        icon: wallpaper
+        value:
+          _section-type: exhibition
+          heading: hotel facility photography
+          textarea_html: <p>Tap/click the image to view in full size.</p>
+          cta: hire us
+          cta-link: /contact
+          content-1:
+            content-path: https://youtu.be/DV16nY_zRtA
+            cover-image: /images/facility-photography/hotel-facility-photographer-5.webp
+            border-radius:
+              border-top-left-corner: 0%;
+              border-top-right-corner: 0%;
+              border-bottom-left-corner: 0%;
+              border-bottom-right-corner: 0%;
+          content-2:
+            content-path: /images/facility-photography/hotel-facility-photographer-7.webp
+            cover-image: /images/facility-photography/hotel-facility-photographer-7.webp
+            border-radius:
+              border-top-left-corner: 0%;
+              border-top-right-corner: 0%;
+              border-bottom-left-corner: 0%;
+              border-bottom-right-corner: 0%;
+          content-3:
+            content-path: /images/facility-photography/hotel-facility-photographer-3.webp
+            cover-image: /images/facility-photography/hotel-facility-photographer-3.webp
+            border-radius:
+              border-top-left-corner: 0%
+              border-top-right-corner: 0%
+              border-bottom-left-corner: 0%
+              border-bottom-right-corner: 0%
+          content-4:
+            content-path: /images/facility-photography/hotel-facility-photographer-1.webp
+            cover-image: /images/facility-photography/hotel-facility-photographer-1.webp
+            border-radius:
+              border-top-left-corner: 0%
+              border-top-right-corner: 0%
+              border-bottom-left-corner: 0%
+              border-bottom-right-corner: 0%
+          content-5:
+            content-path: /images/facility-photography/hotel-facility-photographer-2.webp
+            cover-image: /images/facility-photography/hotel-facility-photographer-2.webp
+            border-radius:
+              border-top-left-corner: 0%
+              border-top-right-corner: 0%
+              border-bottom-left-corner: 0%
+              border-bottom-right-corner: 0%
+          content-6:
+            content-path: /images/facility-photography/hotel-facility-photographer-9.webp
+            cover-image: /images/facility-photography/hotel-facility-photographer-9.webp
+            border-radius:
+              border-top-left-corner: 0%
+              border-top-right-corner: 0%
+              border-bottom-left-corner: 0%
+              border-bottom-right-corner: 0%
+          content-7:
+            content-path: /images/facility-photography/hotel-facility-photographer-8.webp
+            cover-image: /images/facility-photography/hotel-facility-photographer-8.webp
+            border-radius:
+              border-top-left-corner: 0%
+              border-top-right-corner: 0%
+              border-bottom-left-corner: 0%
+              border-bottom-right-corner: 0%
+          colors:
+            heading-color: '#9E9282'
+            subheading-color: '#9E9282'
+            text-color: '#9E9282'
+            titles-color: '#9E9282'
+            background-color: '#F8F7F3'
+            textarea-background-color: '#FEFEFE'
+            titles-background-color: '#F8F7F3'
+            button-color: '#366E94'
+            button-text-color: white
+            button-hover-color: '#9E9282'
+            button-text-hover-color: white
+            link-color: '#d2966d'
+            link-hover-color: '#859f9f'
+          fonts:
+            heading-font: Mak
+            subheading-font: Mak
+            text-font: Playfair Display, serif
+            button-font: Mak
+          button-border-radius:
+            border-top-left-corner: 100%;
+            border-top-right-corner: 100%;
+            border-bottom-left-corner: 100%;
+            border-bottom-right-corner: 100%;
+          content-block-link: 
+      - label: The Scroll
+        icon: diamond
+        value:
+          _section-type: the-scroll
+          heading: trusted by
+          subheading: 50+ brands in your industry
+          scroll:
+            - image: /images/clients/ritz-carlton.webp
+            - image: /images/clients/crowne-plaza.webp
+            - image: /images/clients/avis-vector-logo-small.webp
+            - image: /images/clients/lao-ford.webp
+            - image: /images/clients/logo-the-inside-house.webp
+          colors:
+            heading-color: '#9E9282'
+            subheading-color: '#9E9282'
+            background-color: '#FEFEFE'
+            textarea-background-color: '#FEFEFE'
+          fonts:
+            heading-font: Mak
+            subheading-font: Playfair Display, serif
+          borders:
+            top-color: black
+            bottom-color: '#9E9282'
+            left-color: black
+          content-block-link: clients 
+      - label: Hey There
+        icon: waving_hand
+        value:
+          _section-type: hey-there
+          heading: influencer
+          subheading: marketing
+          left-vertical-text: "86% of women turn to social media for buying advice." 
+          right-vertical-text: "Influencer marketing ROI is 11x greater than banner ads."
+          background-image: /images/scratches.png
+          left:
+            top-image: /images/influencer-marketing/south-african-influencers.webp
+            top-image-border-radius:
+              top-left-corner: 0%
+              top-right-corner: 0%
+              bottom-left-corner: 0%
+              bottom-right-corner: 0%
+            bottom-image: /images/influencer-marketing/influencer.webp
+            bottom-image-border-radius:
+              top-left-corner: 100%
+              top-right-corner: 100%
+              bottom-left-corner: 100%
+              bottom-right-corner: 100%
+          middle:
+            top-image: /images/influencer-marketing/influencers.webp
+            border-radius:
+              top-left-corner: 0%
+              top-right-corner: 0%
+              bottom-left-corner: 0%
+              bottom-right-corner: 0%
+          right:
+            top-image: /images/influencer-marketing/influencers-koh-tao.webp
+            top-image-border-radius:
+              top-left-corner: 100%
+              top-right-corner: 100%
+              bottom-left-corner: 0%
+              bottom-right-corner: 0%
+            bottom-image: /images/influencer-marketing/south-africa-influencer-marketing.webp
+            bottom-image-border-radius:
+              top-left-corner: 0%
+              top-right-corner: 0%
+              bottom-left-corner: 0%
+              bottom-right-corner: 0%
+          colors:
+            background-color: '#F8F7F3'
+            heading-color: 'white'
+            subheading-color: 'white'
+            text-color: '#9E9282'
+          fonts:
+            heading-font: Mak
+            subheading-font: Brushwell
+            text-font: Playfair Display, serif
+          content-block-link:
 fonts:
 _select_data:
   fonts:
