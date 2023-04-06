@@ -1077,6 +1077,22 @@ footer {
     font-size: 0.8rem;
     color: #c3a496;
     }
+    
+    /* -----EXIBITION------ */
+a .exibition-gallery {display: block;}
+
+.mixed-gallery .landscape {padding-bottom: 20rem;}
+
+.mixed-gallery .portrait {padding-bottom: 25rem;}
+
+.mixed-gallery .long-portrait {padding-bottom: 45.4rem;}
+
+.exibition-gallery 
+  {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  }
 
 .desktop-hide {display: none;}
 
