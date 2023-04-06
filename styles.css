@@ -1095,6 +1095,20 @@ footer {
 /* Smaller than laptop */
 @media(max-width:768px) {
 
+ /* -----EXIBITION------ */
+a .exibition-gallery {display: block;}
+
+.mixed-gallery .landscape {padding-bottom: 13rem;}
+
+.mixed-gallery .portrait {padding-bottom: 16rem;}
+
+.mixed-gallery .long-portrait {padding-bottom: 29.4rem;}
+
+.mob-hide
+  {display: none;}
+
+.desktop-hide {display: inline;}
+
 .mob-hide
   {display: none;}
 
