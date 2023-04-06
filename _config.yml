@@ -866,9 +866,9 @@ _array_structures:
             subheading-font: Brushwell
             text-font: Raleway, sans-serif
             button-font: Mak
-        - label: Plain Jane
-          icon: face_3
-          value:
+      - label: Plain Jane
+        icon: face_3
+        value:
           _section-type: plain-jane
           textarea_html: >-
             <h3 class="center">more services</h3><p class="center">Ok, so if you're
