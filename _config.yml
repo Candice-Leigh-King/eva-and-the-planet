@@ -679,7 +679,7 @@ _array_structures:
             border-bottom-left-corner: 100%;
             border-bottom-right-corner: 100%;
           content-block-link: 
-      - label: The Scroll
+    - label: The Scroll
         icon: diamond
         value:
           _section-type: the-scroll
@@ -756,6 +756,168 @@ _array_structures:
             subheading-font: Brushwell
             text-font: Playfair Display, serif
           content-block-link:
+      - label: Statistics
+        icon: insights
+        value:
+          _section-type: statistics
+          left-stat:
+            stat: 30K+
+            textarea: followers
+            icon: <span class="iconify" data-icon="teenyicons:instagram-outline"></span>
+            background-color: 'white'
+            text-color: '#366E94'
+            background-hover-color: '#9E9282'
+            text-hover-color: 'white'
+            link: https://www.instagram.com/candy_and_the_kings/
+            border-color: '#366E94'
+            border-radius:
+              top-left-corner: 100%
+              top-right-corner: 100%
+              bottom-left-corner: 100%
+              bottom-right-corner: 100%
+            font-family: Mak
+          middle-stat:
+            stat: 3M+
+            textarea: followers
+            icon: <span class="iconify" data-icon="ph:tiktok-logo-light"></span>
+            link:  //www.tiktok.com/@candy_and_the_kings
+            background-color: '#366E94'
+            text-color: 'white'
+            background-hover-color: '#9E9282'
+            text-hover-color: 'white'
+            border-color: 'white'
+            border-radius:
+              top-left-corner: 100%
+              top-right-corner: 100%
+              bottom-left-corner: 100%
+              bottom-right-corner: 100%
+            font-family: Mak
+          right-stat:
+            stat: 3K+
+            textarea: followers
+            icon: <span class="iconify" data-icon="iconoir:facebook"></span>
+            link: https://www.facebook.com/candy.and.the.king/
+            background-color: 'white'
+            text-color: '#366E94'
+            background-hover-color: '#9E9282'
+            text-hover-color: 'white'
+            border-color: '#366E94'
+            border-radius:
+              top-left-corner: 100%
+              top-right-corner: 100%
+              bottom-left-corner: 100%
+              bottom-right-corner: 100%
+            font-family: Mak  
+          colors:
+            background-color: '#F8F7F3'
+            border-color: '#9E9282'
+          content-block-link:
+      - label: The Divine Fade
+        icon: auto_awesome
+        value:
+          _section-type: the-divine-fade
+          right-image:
+            image: /images/products/sunset.jpg
+            border-color: '#3f3f40'
+            border-radius:
+              top-left-corner: 0px
+              top-right-corner: 0px
+              bottom-left-corner: 0%
+              bottom-right-corner: 0%
+          left-image:
+            image: /images/products/shop.jpg
+            border-color: '#3f3f40'
+            border-radius:
+              top-left-corner: 0px
+              top-right-corner: 0px
+              bottom-left-corner: 0%
+              bottom-right-corner: 0%
+          bottom-image:
+            image: /images/products/new.jpg
+            border-color: '#3f3f40'
+            border-radius:
+              top-left-corner: 0px
+              top-right-corner: 0px
+              bottom-left-corner: 0px
+              bottom-right-corner: 0px
+          text:
+            first-textarea_html: >-
+              <h2>Shop Now!</h2><p>Lorem ipsum dolor sit amet consectetur adipisicing
+              elit. Quaerat libero dignissimos voluptatem, debitis rem fugit optio
+              eveniet numquam possimus fuga. Non, praesentium ipsam nisi quidem
+              accusamus debitis dicta nemo voluptates?</p>
+            second-textarea_html: >-
+              <p>★★★★★</p><p><i>"Nimo Bitis rem fugit optio eveniet numquam possimus
+              fug!"</i></p>
+          button:
+            button-link: /products/the-ultimate-guide-for-hotel-collabs.html
+            button-name: Ooh, Learn more!
+          colors:
+            background-color: '#ffffff'
+            heading-color: '#3f3f40'
+            subheading-color: '#3f3f40'
+            text-color: '#3f3f40'
+            button-color: '#bed0d2'
+            button-hover-color: '#CCBFD9'
+            button-text-color: '#ffffff'
+            button-text-hover-color: '#ffffff'
+          fonts:
+            heading-font: Mak
+            subheading-font: Brushwell
+            text-font: Raleway, sans-serif
+            button-font: Mak
+        - label: Plain Jane
+          icon: face_3
+          value:
+          _section-type: plain-jane
+          textarea_html: >-
+            <h3 class="center">more services</h3><p class="center">Ok, so if you're
+            still wondering what it is that we exactly do, no problem. We understand
+            that although the lines between influencer marketing and content creation
+            are very defined and clear, they still might seem a little blurred. So,
+            I'll explain the difference nice and clearly.</p><p class="center">If
+            you're looking to reach a larger audience, then <strong><a
+            href="influencer-marketing">click here</a></strong>, because influencer
+            marketing is what you're after.</p><p class="center">And if you're just in
+            need of content for your socials, then you better<strong> <a
+            href="/content-creation">click here</a></strong> for content creation.</p>
+          background_image: /images/scratches.png
+          cta-link: /contact
+          colors:
+            background-color: '#f8f7f3'
+            textarea-background-color: '#f8f7f3'
+            heading-color: '#9e9282'
+            subheading-color: '#9e9282'
+            text-color: '#2f3031'
+            link-color: '#366e94'
+            link-hover-color: '#9e9282'
+            border-color: rgba(0, 0, 0, 0)
+            background-border:
+              top-color: '#366e94'
+              bottom-color: '#366e94'
+              left-color: '#366e94'
+              right-color: '#366e94'
+          border-radius:
+            laptop:
+              top-left-corner: 400px
+              top-right-corner: 70%
+              bottom-left-corner: 60%
+              bottom-right-corner: 300px
+            tablet:
+              top-left-corner: 200px
+              top-right-corner: 40%
+              bottom-left-corner: 40%
+              bottom-right-corner: 200px
+            mobile:
+              top-left-corner: 100px
+              top-right-corner: 50px
+              bottom-left-corner: 75px
+              bottom-right-corner: 100px
+          fonts:
+            heading-font: Mak
+            subheading-font: Mak
+            text-font: Raleway, sans-serif
+          content-block-link:   
 fonts:
 _select_data:
   fonts:
