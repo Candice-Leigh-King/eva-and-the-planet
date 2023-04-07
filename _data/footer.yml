@@ -7,6 +7,6 @@ colors:
   background-color: '#ffffff'
   border-color: '#ffffff'
   social-icons-background-color: '#988780'
-  subfooter-hover-color: '#ffffff'
+  subfooter-hover-color: 'black'
 fonts:
   subfooter-font: Poppins, sans-serif
