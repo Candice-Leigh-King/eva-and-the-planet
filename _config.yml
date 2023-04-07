@@ -92,6 +92,33 @@ _array_structures:
         value: 
           _section-type: floating-socials
           description: To change the links, go to data → general → social links. To change the colors, go to data → navigation → social link colors. This will change the links and colors of these floating social media icons and the ones in your navigation. 😊 For brand consistency, the colors will be the same.
+      - label: Portfolio Hero
+        icon: star
+        value:
+          _section-type: portfolio-hero
+          hero: professional imagery for hotels
+          subheading:
+          cta: see our work
+          cta-link: /portfolio
+          hero-image: /images/professional-hotel-photography-near-me.webp
+          textarea-background-image: /images/hotel-collab-background.webp
+          colors:
+            hero-color: '#766C5B'
+            subheading-color: 
+            cta-color: '#766C5B'
+            cta-text-color: 'white'
+            cta-background-hover-color: '#366E94'
+            cta-text-hover-color: 'white' 
+          fonts:  
+            hero-font: Mak
+            subheading-font:
+            cta-font: Mak
+          border-radius:
+            top-left-corner: 100%
+            top-right-corner: 100%
+            bottom-left-corner: 100%
+            bottom-right-corner: 100%
+          content-block-link:
       - label: Hero
         icon: star
         value:
