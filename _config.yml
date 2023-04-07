@@ -91,10 +91,10 @@ _array_structures:
         icon: groups
         value: 
           _section-type: floating-socials
-           icon-background-color: 'transparent'
-           icon-border-color: 'white'
-           icon-color: '#000000'
-           icon-hover-color: '#ffffff'
+          icon-background-color: 'transparent'
+          icon-border-color: 'white'
+          icon-color: '#000000'
+          icon-hover-color: '#ffffff'
       - label: Portfolio Hero
         icon: star
         value:
