@@ -1077,16 +1077,18 @@ background-color: #F8DCC2;
 border: #FAE6D4 solid;
 }
 
-.socials a
+
+.socials
   {
   color: #F8DCC2;
   background-color: #FAE6D4;
   border-radius: 90px;
-  font-size: 2.3rem;
+  font-size: 2rem;
+  padding: 5px 0px 0px;
   border: #FAE6D4 solid;
   }
 
-  .socials a:hover
+  .socials:hover
   {
   color: #FAE6D4;
   background-color: #F8DCC2;
