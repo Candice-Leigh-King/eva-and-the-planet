@@ -1158,6 +1158,22 @@ a .exibition-gallery {display: block;}
 /* Smaller than laptop */
 @media(max-width:768px) {
   
+  /*----PURITY---*/
+  /* ----- PURITY ----  */
+    .purity-banner 
+      {
+      max-height: 15rem;
+      }
+
+    .purity img 
+      {
+      margin-top: -6rem;
+      max-width: 280px;
+      padding: 0%;
+      } 
+    
+    .purity {text-align: right;}
+  
 
  /* -----EXIBITION------ */
 a .exibition-gallery {display: block;}
