@@ -1050,6 +1050,33 @@ footer {
   border-top: 1px solid black;
 }
 
+.footer-bg {background-size: cover;}
+
+.footer-image 
+  { 
+  height: 213.5px;
+  width: 100%;
+  object-fit: cover;
+  }
+
+  
+.socials-form a
+{
+color: #F8DCC2;
+background-color: #FAE6D4;
+border-radius: 90px;
+font-size: 2rem;
+padding: 5px 0px 0px;
+border: #FAE6D4 solid;
+}
+
+.socials-form a:hover
+{
+color: #FAE6D4;
+background-color: #F8DCC2;
+border: #FAE6D4 solid;
+}
+
 .socials a
   {
   color: #F8DCC2;
