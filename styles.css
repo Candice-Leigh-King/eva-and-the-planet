@@ -462,6 +462,24 @@ font-family: 'Shrikhand', cursive;*/
   background-color: #BCCACA;
   background-repeat: no-repeat;
   }
+  
+  /* -----PURITY---- */
+
+  .purity-banner 
+  {
+  background-size: cover;
+  background-position: center;
+  }
+
+.purity img 
+  {
+  margin-left: 10rem;
+  max-width: 400px;
+  height: auto;
+  padding: 10%;
+  }
+
+ .purity-button a 
 
 /* ---------BLOG------- */
 .blog-hero  
