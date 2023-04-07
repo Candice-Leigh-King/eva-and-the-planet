@@ -1333,6 +1333,9 @@ a .exibition-gallery {display: block;}
 
    .padded-1 
     {padding: 4px;}
+    
+  .socials-form a {font-size: 1.5rem;}
+  .socials {font-size: 1.5rem;}
   
   .socials a {font-size: 1.5rem;}
   .fb {padding: 5px 17px;}
