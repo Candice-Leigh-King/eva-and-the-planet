@@ -1,3 +1,19 @@
+<style>
+ #content-blocks-{{forloop.index0}} .fixed-socials 
+  {
+  background-color: var(--iconBackgroundColor);
+  border-top: 1px solid var(--iconBorderColor);
+  border-left: 1px solid var(--iconBorderColor);
+  border-bottom: 1px solid var(--iconBorderColor);
+  }
+
+ #content-blocks-{{forloop.index0}} .fixed-socials a 
+ {color: {{item.icon-color}};}  
+
+ #content-blocks-{{forloop.index0}}  .fixed-socials a:hover 
+  {color: {{item.icon-hover-color}};}
+</style>
+
 <div class="fixed-socials reveal fade-up">
     <p><a href="{{site.data.general.social-links.instagram}}"><span class="iconify" data-icon="ph:instagram-logo-fill"></span></a></p>
     <p><a href="{{site.data.general.social-links.tiktok}}"><span class="iconify" data-icon="simple-icons:tiktok"></span></a></p>
