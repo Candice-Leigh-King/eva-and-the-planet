@@ -1,7 +1,7 @@
 colors:
-  background-color: '#aac5cc'
-  heading-color: '#ebf0f1'
-  text-color: '#2f3031'
+  background-color: '#ffffff'
+  heading-color: '#13292a'
+  text-color: '#13292a'
 fonts:
   heading-font: Cyrene
   text-font: Poppins, sans-serif
