@@ -105,6 +105,7 @@
           --footerBorderColor: {{site.data.footer.colors.border-color}};
           --subfooterTextColor: {{site.data.footer.colors.subfooter-text-color}};
           --subfooterTextHoverColor: {{site.data.footer.colors.subfooter-text-hover-color}};
+          --footerSocialIconsColor: {{site.data.footer.colors.social-icons-color}};
           --socialIconsBackgroundColor: {{site.data.footer.colors.social-icons-background-color}};
           --subfooterHoverColor: {{site.data.footer.colors.subfooter-hover-color}};
           --subfooterFont: {{site.data.footer.fonts.subfooter-font}};
@@ -194,18 +195,19 @@
           color: var(--footerTextHoverColor);
           }
 
-        .social-icons-color a 
+         .social-icons-color 
           {
-          color: var(--footerBackgroundColor);
+          color: var(--footerSocialIconsColor);
           background-color: var(--socialIconsBackgroundColor);
-          border: solid var(--socialIconsBackgroundColor);
+          border: 1.5px solid var(--footerSocialIconsBorderColor);
+          background-size: cover;
           }
         
-        .social-icons-color a:hover
+        .social-icons-color:hover
           {
-          color: var(--socialIconsBackgroundColor);
-          background-color: transparent;
-          border: solid var(--socialIconsBackgroundColor);
+          color: var(--footerSocialIconsHoverColor);
+          background-color: var(--footerSocialIconsBackgroundHoverColor);
+          border: 1.5px solid var(--footerSocialIconsBorderHoverColor);
           }
 
         .built {background-color: var(--footerBackgroundColor);}
