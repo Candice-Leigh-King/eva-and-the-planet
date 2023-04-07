@@ -41,6 +41,8 @@ colors:
   background-color: '#9e9282'
   textarea-background-color: '#f8f6f4'
   border-color: '#9e9282'
+  navigation-icon-color: 'yellow'
+  navigation-icon-hover-color: 'green'
   link-color: '#2f3031'
   hover-link-color: '#366e94'
   exit-color: '#f8f6f4'
