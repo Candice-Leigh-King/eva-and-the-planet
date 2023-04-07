@@ -661,13 +661,14 @@ header
   margin: 0;
   }
 
+
 .mobile-menu 
   {
   position: fixed;
   top: 0;
   right:0;
-  left:600px;
-  bottom: 10;
+  left:0;
+  bottom: 0;
   padding: 30% 10% 10% 10%;
   z-index: 10;
   color: #2f3031;
