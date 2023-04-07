@@ -1139,6 +1139,7 @@ a .exibition-gallery {display: block;}
 
 /* Smaller than laptop */
 @media(max-width:768px) {
+  
 
  /* -----EXIBITION------ */
 a .exibition-gallery {display: block;}
@@ -1194,11 +1195,16 @@ a .exibition-gallery {display: block;}
    .carousel-symbols-color {font-size: 1.8rem;}
    .carousel-subheading-font {font-size: 1.6rem;}
   
-  .socials a {font-size: 1.9rem;}
+  .socials-form a {font-size: 1.9rem;}
   .fb {padding: 8px 24px;}
   .ig {padding: 8px 16px;}
   .tt {padding: 8px 15px;}
   .yt {padding: 8px 15px;}
+  .padded-top-botton-left {padding: 5% 0%;}
+
+  .socials {font-size: 1.6rem;}
+  
+  }
   .padded-top-botton-left {padding: 5% 0%;}
 
    /* -----BLOG----- */
