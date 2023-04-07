@@ -724,6 +724,17 @@ header
     border: 1px solid #D2966D;
     font-size: 1.5rem;
   }
+  
+  .navigation-socials
+  {
+    z-index: 10;
+    padding: 0.5% !important;
+    border-radius: 100px 100px 0px 0px;
+    color: #859F9F;
+    line-height: 8px;
+    margin: 0;
+    font-size: 1.5rem;
+  }
 
   .navigation-socials a:hover {color: #D2966D;}
 
@@ -1257,6 +1268,12 @@ a .exibition-gallery {display: block;}
 
   
 @media(max-width:576px) {
+  
+   .navigation-socials
+   {
+    padding: 3% !important;
+   }
+
   
  /* ----PURITY--- */
 
