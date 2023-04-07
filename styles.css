@@ -1257,6 +1257,30 @@ a .exibition-gallery {display: block;}
 
   
 @media(max-width:576px) {
+  
+ /* ----PURITY--- */
+
+  .purity-content-block h3 
+    {
+    margin: 0;
+    padding-top: 1.2rem;
+    }
+
+  .purity-banner 
+      {
+      max-height: 12rem;
+      }
+
+  .purity img 
+      {
+      margin-top: 0rem;
+      text-align: right;
+      max-width: 170px;
+      padding: 0%;
+      margin-left: 0rem;
+      } 
+    
+  .purity {text-align: right;}
 
   header {margin-bottom: 0rem !important ;}
   .hamburger 
