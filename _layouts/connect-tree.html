@@ -97,6 +97,8 @@
           --iconBackgroundColor: {{site.data.navigation.social-link-colors.background-color}};
           --iconBorderColor: {{site.data.navigation.social-link-colors.border-color}};
           --iconHoverColor: {{site.data.navigation.social-link-colors.icon-hover-color}};
+          --navigationIconColor: {{site.data.navigation.colors.navigation-icon-color}};
+          --navicationIconHoverColor: {{site.data.navigation.colors.navigation-icon-hover-color}};
           --exitColor: {{site.data.navigation.colors.exit-color}};
           --exitHoverColor: {{site.data.navigation.colors.exit-hover-color}};
 
@@ -170,14 +172,8 @@
         .fixed-socials a:hover 
           {color:var(--iconHoverColor);}
           
-        .navigation-socials a { color: var(--iconColor);} 
-        .navigation-socials a:hover   {color:var(--iconHoverColor);}
-        .navigation-socials
-          {
-          border-top-right-radius: var(--navSocialsBorderTopRight);
-          border-top-left-radius:  var(--navSocialsBorderTopLeft);
-          border-bottom-left-radius:  var(--navSocialsBorderBottomLeft);
-          border-bottom-right-radius:  var(--navSocialsBorderBottomRight);
+        .navigation-socials a { color: var(--navigationIconColor);} 
+        .navigation-socials a:hover   {color:var(--navicationIconHoverColor);}
           }  
 
         /* ----------FOOTER---------- */
