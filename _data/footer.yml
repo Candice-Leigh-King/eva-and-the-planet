@@ -1,3 +1,8 @@
+shop-requirements:
+  terms-and-conditions-heading: Ts & Cs
+  terms-and-conditions-link: /ts-cs
+  privacy-heading: Privacy Policy
+  privacy-link: /privacy-policy
 colors:
   background-color: '#ffffff'
   border-color: '#ffffff'
