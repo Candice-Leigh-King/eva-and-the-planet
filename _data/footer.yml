@@ -30,9 +30,9 @@ colors:
   social-icons-background-hover-color: '#e7ded9'
   text-color: '#fefefe'
   text-hover-color: '#988780'
-  subfooter-background-color: '#e7ded9'
-  subfooter-text-color: '#988780'
-  subfooter-text-hover-color: '#016367'
+  subfooter-background-color: '#016367'
+  subfooter-text-color: '#e7ded9'
+  subfooter-text-hover-color: '#fefefe'
 fonts:
   text-font: Raleway, sans-serif
   subfooter-font: Raleway, sans-serif
