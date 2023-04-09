@@ -1,4 +1,4 @@
-background-image: /images/footer-bg.webp
+background-image: /uploads/untitled-design.jpg
 images:
   1-image: /uploads/dji-0479-hdr-large.jpeg
   1-alt:
@@ -21,16 +21,16 @@ navigation:
     <p><a href="/contact">contact </a></p><p><a
     href="/portfolio#reviews">reviews </a></p>
 colors:
-  background-color: '#f8f7f3'
+  background-color: '#efebe5'
   social-icons-color: '#fefefe'
   social-icons-hover-color: '#988780'
   social-icons-border-color: '#fefefe'
   social-icons-border-hover-color: '#988780'
   social-icons-background-color: rgba(0, 0, 0, 0)
-  social-icons-background-hover-color: '#e7ded9'
+  social-icons-background-hover-color: '#efebe5'
   text-color: '#fefefe'
   text-hover-color: '#988780'
-  subfooter-background-color: '#e7ded9'
+  subfooter-background-color: '#efebe5'
   subfooter-text-color: '#988780'
   subfooter-text-hover-color: '#016367'
 fonts:
