@@ -39,13 +39,13 @@ fourth-block:
 colors:
   hamburger-color: '#ffffff'
   background-color: '#988780'
-  textarea-background-color: '#f8f6f4'
+  textarea-background-color: '#ffffff'
   border-color: '#988780'
   navigation-icon-color: '#016367'
   navigation-icon-hover-color: '#988780'
   link-color: '#2f3031'
   hover-link-color: '#016367'
-  exit-color: '#f8f6f4'
+  exit-color: '#ffffff'
   exit-hover-color: '#016367'
 border-radius:
   top-left-corner: 0%
