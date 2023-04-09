@@ -19,7 +19,7 @@ second-block:
     border-bottom-right-corner: 0%
   border-color: '#9e9282'
 third-block:
-  image: /images/services.webp
+  image: /uploads/dji-0785-hdr-large1.jpeg
   textarea_html: <p><a href="/#services">services</a></p>
   border-radius:
     border-top-left-corner: 100%
@@ -28,7 +28,7 @@ third-block:
     border-bottom-right-corner: 0%
   border-color: '#9e9282'
 fourth-block:
-  image: /images/contact-the-kings.webp
+  image: /uploads/img-2533-3-large.jpeg
   textarea_html: <p><a href="/contact">contact me</a></p>
   border-radius:
     border-top-left-corner: 0%
@@ -38,15 +38,15 @@ fourth-block:
   border-color: '#9e9282'
 colors:
   hamburger-color: '#ffffff'
-  background-color: '#9e9282'
+  background-color: '#988780'
   textarea-background-color: '#f8f6f4'
-  border-color: '#9e9282'
-  navigation-icon-color: '#366e94'
-  navigation-icon-hover-color: '#9e9282'
+  border-color: '#988780'
+  navigation-icon-color: '#016367'
+  navigation-icon-hover-color: '#988780'
   link-color: '#2f3031'
-  hover-link-color: '#366e94'
+  hover-link-color: '#016367'
   exit-color: '#f8f6f4'
-  exit-hover-color: '#366e94'
+  exit-hover-color: '#016367'
 border-radius:
   top-left-corner: 0%
   top-right-corner: 0%
@@ -55,8 +55,8 @@ border-radius:
 fonts:
   link-font: Mak
 social-link-colors:
-  icon-color: '#366e94'
-  icon-hover-color: '#9e9282'
+  icon-color: '#016367'
+  icon-hover-color: '#988780'
 icons-border-radius:
   top-left-corner: 100px
   top-right-corner: 0px
