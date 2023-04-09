@@ -1,6 +1,6 @@
 first-block:
   image: /uploads/drone-3185-2-large.jpeg
-  textarea_html: <p><a href="/portfolio">portfolio</a></p>
+  textarea_html: <p><a href="/portfolio1">portfolio</a></p>
   border-radius:
     border-top-left-corner: 100%
     border-top-right-corner: 100%
