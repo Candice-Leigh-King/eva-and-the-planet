@@ -22,9 +22,9 @@ navigation:
     href="/portfolio#reviews">reviews </a></p>
 colors:
   background-color: '#efebe5'
-  social-icons-color: '#fefefe'
+  social-icons-color: '#efebe5'
   social-icons-hover-color: '#988780'
-  social-icons-border-color: '#fefefe'
+  social-icons-border-color: '#efebe5'
   social-icons-border-hover-color: '#988780'
   social-icons-background-color: rgba(0, 0, 0, 0)
   social-icons-background-hover-color: '#efebe5'
