@@ -34,7 +34,7 @@ colors:
   subfooter-text-color: '#988780'
   subfooter-text-hover-color: '#016367'
 fonts:
-  text-font: Mak
+  text-font: Raleway, sans-serif
   subfooter-font: Raleway, sans-serif
 shop-requirements:
   terms-and-conditions-heading: Ts & Cs
