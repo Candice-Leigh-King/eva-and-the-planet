@@ -10,7 +10,7 @@ first-block:
 second-block:
   image: /uploads/peve-drone-3930-large.jpeg
   textarea_html: >-
-    <p><a href="/#about">about me</a></p><p><a href="/mediakit">media
+    <p><a href="/#about">about me</a></p><p><a href="/media-kit">media
     kit</a></p>
   border-radius:
     border-top-left-corner: 0%
