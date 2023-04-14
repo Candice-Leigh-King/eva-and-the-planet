@@ -39,7 +39,7 @@ fourth-block:
 colors:
   hamburger-color: '#ffffff'
   background-color: '#efebe5'
-  textarea-background-color: '#fbf8f3'
+  textarea-background-color: '#fdfbfb'
   border-color: '#efebe5'
   navigation-icon-color: '#016367'
   navigation-icon-hover-color: '#988780'
