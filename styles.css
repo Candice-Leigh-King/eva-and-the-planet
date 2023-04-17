@@ -120,7 +120,7 @@ font-family: 'Shrikhand', cursive;*/
   .padded   {  padding: 5% !important;    }
   .padded-1 {  padding: 1rem;  }
   .padded-2 {  padding: 2rem;  }
-  .padded-sides {padding: 0% 5%;}
+  .padded-sides {padding: 0% 5% !important;}
   .padded-right {padding-right: 5%;}
   .padded-top-botton-left {padding: 5% 0% 5% 5%;}
   .padded-bottom {padding-bottom: 5%; }
