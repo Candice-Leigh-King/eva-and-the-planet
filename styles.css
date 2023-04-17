@@ -1189,7 +1189,7 @@ a .exibition-gallery {display: block;}
  /* -----EXIBITION------ */
 a .exibition-gallery {display: block;}
 
-/* .mixed-gallery .landscape {padding-bottom: 13rem;} */
+.mixed-gallery .landscape {padding-bottom: 13rem;}
 
 .mixed-gallery .portrait {padding-bottom: 16rem;}
 
